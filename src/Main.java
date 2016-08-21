@@ -6,4 +6,7 @@ public class Main {
 
 	}
 
+	private void thisIsMasterSpecificMethod(){
+		System.out.println("Master changes");
+	}
 }
